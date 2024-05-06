@@ -1,4 +1,4 @@
-# Quizzical
+# CV Application
 
 Web application built with HTML, CSS and ReactJS
 
