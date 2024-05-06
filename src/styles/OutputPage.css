@@ -1,0 +1,8 @@
+.output section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.output p {
+  margin: 0em;
+}
