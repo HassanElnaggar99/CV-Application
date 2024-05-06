@@ -54,3 +54,8 @@ h1 {
 label {
   display: block;
 }
+
+button {
+  margin-block: 1em;
+  border: 1px solid black;
+}
